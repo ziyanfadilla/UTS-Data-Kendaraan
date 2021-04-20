@@ -27,7 +27,7 @@
                   <div class="button mt-2 d-flex flex-row align-items-center"> 
                       <button class="btn btn-sm btn-outline-primary w-100" onclick="window.location.href='https://www.instagram.com/zynfadilla/'">Instagram</button> 
                     <button class="btn btn-sm btn-primary w-100 ml-2">Youtube</button>
-                    <button class="btn btn-sm btn-outline-primary w-100 ml-2" onclick="window.location.href='http://127.0.0.1:8000/kendaraan'">Go To aplikasi</button> 
+                    <button class="btn btn-sm btn-outline-primary w-100 ml-2" onclick="window.location.href='{{route('kendaraan.index')}}'">Go To aplikasi</button> 
                 </div>
               </div>
           </div>

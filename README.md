@@ -2,7 +2,7 @@
    [LAPORAN DESAIN DIAGRAM -18090058](https://drive.google.com/file/d/11_hADD8PqY_JtuoyJozl8WJAczuabpHT/view?usp=sharing)
 
 ## HEROKU
-[LINK HEROKU](https://app-data-kendaraan.herokuapp.com/)
+[LINK HEROKU](https://app-rental.herokuapp.com/)
 
 ## 
     - Nama    : Ziyan Fadilla Saporette 
